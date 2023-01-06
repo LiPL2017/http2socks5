@@ -1,0 +1,6 @@
+listen: 0.0.0.0:8888
+protocol: http
+socks5:
+  host: 127.0.0.1:1080
+  user: test
+  password: test
